@@ -52,7 +52,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+---啊大大
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
